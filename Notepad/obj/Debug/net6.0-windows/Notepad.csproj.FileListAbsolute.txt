@@ -1,0 +1,17 @@
+E:\iti\labs\Adv C#\Notepad\bin\Debug\net6.0-windows\Notepad.exe
+E:\iti\labs\Adv C#\Notepad\bin\Debug\net6.0-windows\Notepad.deps.json
+E:\iti\labs\Adv C#\Notepad\bin\Debug\net6.0-windows\Notepad.runtimeconfig.json
+E:\iti\labs\Adv C#\Notepad\bin\Debug\net6.0-windows\Notepad.dll
+E:\iti\labs\Adv C#\Notepad\bin\Debug\net6.0-windows\Notepad.pdb
+E:\iti\labs\Adv C#\Notepad\obj\Debug\net6.0-windows\Notepad.csproj.AssemblyReference.cache
+E:\iti\labs\Adv C#\Notepad\obj\Debug\net6.0-windows\Notepad.Form1.resources
+E:\iti\labs\Adv C#\Notepad\obj\Debug\net6.0-windows\Notepad.csproj.GenerateResource.cache
+E:\iti\labs\Adv C#\Notepad\obj\Debug\net6.0-windows\Notepad.GeneratedMSBuildEditorConfig.editorconfig
+E:\iti\labs\Adv C#\Notepad\obj\Debug\net6.0-windows\Notepad.AssemblyInfoInputs.cache
+E:\iti\labs\Adv C#\Notepad\obj\Debug\net6.0-windows\Notepad.AssemblyInfo.cs
+E:\iti\labs\Adv C#\Notepad\obj\Debug\net6.0-windows\Notepad.csproj.CoreCompileInputs.cache
+E:\iti\labs\Adv C#\Notepad\obj\Debug\net6.0-windows\Notepad.dll
+E:\iti\labs\Adv C#\Notepad\obj\Debug\net6.0-windows\refint\Notepad.dll
+E:\iti\labs\Adv C#\Notepad\obj\Debug\net6.0-windows\Notepad.pdb
+E:\iti\labs\Adv C#\Notepad\obj\Debug\net6.0-windows\Notepad.genruntimeconfig.cache
+E:\iti\labs\Adv C#\Notepad\obj\Debug\net6.0-windows\ref\Notepad.dll
